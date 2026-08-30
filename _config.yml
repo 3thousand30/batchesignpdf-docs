@@ -3,7 +3,7 @@ description: Documentation for Batch eSign PDF - local superimposed-signature st
 theme: just-the-docs
 url: https://3thousand30.github.io
 baseurl: /batchesignpdf-docs
-logo: "https://3thousand30.github.io/batchesignpdf-docs/assets/images/logo.png"
+logo: "https://3thousand30.github.io/batchesignpdf-docs/assets/images/logo.webp"
 color_scheme: light
 nav_sort: order
 search_enabled: true
