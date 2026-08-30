@@ -1,0 +1,14 @@
+title: Batch eSign PDF
+description: Documentation for Batch eSign PDF - local superimposed-signature stamping and USB-token/certificate-store digital signing for batches of PDFs.
+theme: just-the-docs
+url: https://3thousand30.github.io
+baseurl: /batchesignpdf-docs
+logo: "https://3thousand30.github.io/batchesignpdf-docs/assets/images/logo.png"
+color_scheme: light
+nav_sort: order
+search_enabled: true
+aux_links:
+  "3thousand30": "https://3thousand30.com/"
+footer_content: >
+  &copy; 2026 <a href="https://3thousand30.com">3thousand30</a> -
+  <a href="https://github.com/3thousand30/batchesignpdf-docs/issues">Support</a>
